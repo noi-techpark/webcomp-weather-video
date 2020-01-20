@@ -1,0 +1,15 @@
+@media only screen and (min-width: 320px) {
+  .meteo_video_widget {
+    font-family: sans-serif;
+    position: relative;
+  }
+}
+
+@media only screen and (min-width: 768px) {
+}
+
+@media only screen and (min-width: 1024px) {
+}
+
+@media only screen and (min-width: 1200px) {
+}

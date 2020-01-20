@@ -1,0 +1,25 @@
+{
+  "title": "Weather Video",
+  "description": ".",
+  "descriptionAbstract": "Weather Video Webcomponent",
+  "license": "AGPL-3.0",
+  "repositoryUrl": "",
+  "authors": [
+    {
+      "name": "Belka",
+      "email": "hello@belkadigital.com",
+      "organization": "Belka",
+      "organizationUrl": "https://belkadigital.com/"
+    }
+  ],
+  "image": "wcs-logo.png",
+  "searchTags": ["weather"],
+  "dist": {
+    "basePath": "dist",
+    "files": ["weather_video_widget.js"]
+  },
+  "configuration": {
+    "tagName": "weather-video",
+    "options": []
+  }
+}
