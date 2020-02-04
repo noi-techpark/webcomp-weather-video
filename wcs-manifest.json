@@ -23,7 +23,7 @@
   "searchTags": ["weather"],
   "dist": {
     "basePath": "dist",
-    "files": ["weather_video_widget.js"]
+    "files": ["weather_video_widget.min.js"]
   },
   "configuration": {
     "tagName": "weather-video",
