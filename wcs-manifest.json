@@ -26,7 +26,7 @@
     "files": ["weather_video_widget.min.js"]
   },
   "configuration": {
-    "tagName": "weather-video",
+    "tagName": "meteo-video-widget",
     "options": [
       {
         "key": "language_translation",
