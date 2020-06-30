@@ -2,4 +2,4 @@
 
 ## Usage
 
-Use the `serve.sh` file to start a python webserver.
+Use the `python3 -m http.server` file to start a python webserver.
