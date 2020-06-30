@@ -1,7 +1,7 @@
 {
-  "title": "Weather Video",
+  "title": "Weather in South Tyrol - Video",
   "description": "Weather Video in various languages",
-  "descriptionAbstract": "Weather Video Webcomponent",
+  "descriptionAbstract": "Weather video webcomponent for South Tyrol",
   "license": "AGPL-3.0-or-later",
   "copyrightHolders": [
     {
@@ -23,10 +23,10 @@
   "searchTags": ["weather"],
   "dist": {
     "basePath": "dist",
-    "files": ["weather_video_widget.js"]
+    "files": ["weather_video_widget.min.js"]
   },
   "configuration": {
-    "tagName": "weather-video",
+    "tagName": "meteo-video-widget",
     "options": [
       {
         "key": "language_translation",
