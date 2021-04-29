@@ -20,10 +20,14 @@
     }
   ],
   "image": "wcs-logo.png",
-  "searchTags": ["weather"],
+  "searchTags": [
+    "weather"
+  ],
   "dist": {
     "basePath": "dist",
-    "files": ["odh-weather-video.min.js"]
+    "files": [
+      "odh-weather-video.min.js"
+    ]
   },
   "configuration": {
     "tagName": "odh-weather-video",
@@ -34,7 +38,10 @@
         "label": "Language",
         "required": false,
         "options": {
-          "values": ["de", "it"],
+          "values": [
+            "de",
+            "it"
+          ],
           "default": "de"
         }
       }
