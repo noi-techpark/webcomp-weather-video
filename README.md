@@ -4,7 +4,7 @@
 
 Weather Video in various languages.
 
-Do you want to see it in action? Go to our [web component store](https://webcomponents.opendatahub.bz.it/webcomponent/543ed85d-8280-4240-8625-4ee5102710ff)!
+Do you want to see it in action? Go to our [web component store](https://webcomponents.opendatahub.bz.it/webcomponent/e1d9ea6f-36ae-40fe-bf6f-add185a2a29d)!
 
 - [Weather Video Web Component](#weather-video-web-component)
   - [Getting Started](#getting-started)
