@@ -23,10 +23,10 @@
   "searchTags": ["weather"],
   "dist": {
     "basePath": "dist",
-    "files": ["weather_video_widget.min.js"]
+    "files": ["odh-weather-video.min.js"]
   },
   "configuration": {
-    "tagName": "meteo-video-widget",
+    "tagName": "odh-weather-video",
     "options": [
       {
         "key": "language_translation",

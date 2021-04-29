@@ -52,6 +52,6 @@ class MeteoVideo extends LitElement {
   }
 }
 
-if (!window.customElements.get('meteo-video-widget')) {
-  window.customElements.define('meteo-video-widget', MeteoVideo);
+if (!window.customElements.get('odh-weather-video')) {
+  window.customElements.define('odh-weather-video', MeteoVideo);
 }

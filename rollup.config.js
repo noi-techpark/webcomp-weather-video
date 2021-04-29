@@ -7,12 +7,12 @@ import image from 'rollup-plugin-img';
 import cleanup from 'rollup-plugin-cleanup';
 
 export default {
-  input: './src/weather_video_widget.js',
+  input: './src/odh-weather-video.js',
   output: {
     file:
       process.env.NODE_ENV === 'production'
-        ? './dist/weather_video_widget.min.js'
-        : './work/scripts/weather_video_widget.js',
+        ? './dist/odh-weather-video.min.js'
+        : './work/scripts/odh-weather-video.js',
     format: 'iife'
   },
   plugins: [
